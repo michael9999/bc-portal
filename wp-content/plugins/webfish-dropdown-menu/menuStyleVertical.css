@@ -1,0 +1,17 @@
+#DropDownMenuNav li{
+
+	float:none;
+	display:table
+}
+
+#DropDownMenuNav ul.DropDownMenu li:hover>ul
+{
+  position: relative;
+}
+
+
+#DropDownMenuNav ul
+{
+  list-style-type: inherit;
+
+}

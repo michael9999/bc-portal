@@ -1,0 +1,62 @@
+LOG ENTRY: Wed Jun 4th, 2014 @ precisely 10:03 am UTC
+PHP v5.3.28 :: WordPress® v3.5.1 :: s2Member® v130214
+Memory 51.65 MB :: Real Memory 52.00 MB :: Peak Memory 52.32 MB :: Real Peak Memory 52.75 MB
+www.test-sw2.com/facilities/wp-admin/network/update.php?action=update-selected&plugins=absolute-privacy%2Fabsolute_privacy.php%2Cakismet%2Fakismet.php%2Cbooking-system%2Fdopbs.php%2Ccontact-form-7-to-database-extension%2Fcontact-form-7-db.php%2Cpost-type-switcher%2Fpost-type-switcher.php%2Cs2member%2Fs2member.php%2Coa-social-login%2Foa-social-login.php%2Ctag-dropdown-widget%2Ftag-dropdown-widget.php%2Cwp-types%2Fwpcf.php%2Cwp-crontrol%2Fwp-crontrol.php%2Czendesk%2Fzendesk-support.php&_wpnonce=12b8ed1778
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/31.0.1650.63 Safari/537.36
+array (
+  'state' => 'response',
+  'transport_class' => 'WP_HTTP_curl',
+  'args' => 
+  array (
+    'method' => 'GET',
+    'timeout' => 300,
+    'redirection' => 5,
+    'httpversion' => '1.0',
+    'user-agent' => 'WordPress/3.5.1; http://www.test-sw2.com/facilities',
+    'blocking' => true,
+    'headers' => 
+    array (
+      'Accept-Encoding' => 'deflate;q=1.0, compress;q=0.5',
+    ),
+    'cookies' => 
+    array (
+    ),
+    'body' => NULL,
+    'compress' => false,
+    'decompress' => true,
+    'sslverify' => true,
+    'stream' => true,
+    'filename' => '/tmp/s2member.tmp',
+    '_redirection' => 5,
+    'ssl' => false,
+    'local' => false,
+  ),
+  'url' => 'http://downloads.wordpress.org/plugin/s2member.140520.zip',
+  'response' => 
+  array (
+    'headers' => 
+    array (
+      'server' => 'nginx',
+      'date' => 'Wed, 04 Jun 2014 10:03:46 GMT',
+      'content-type' => 'application/zip',
+      'content-length' => '1319597',
+      'connection' => 'close',
+      'cache-control' => 'private',
+      'content-disposition' => 'attachment; filename=s2member.140520.zip',
+      'last-modified' => 'Wed, 21 May 2014 06:28:55 GMT',
+      'accept-ranges' => 'bytes',
+      'x-nc' => 'EXPIRED lax 204',
+    ),
+    'body' => '',
+    'response' => 
+    array (
+      'code' => 200,
+      'message' => 'OK',
+    ),
+    'cookies' => 
+    array (
+    ),
+    'filename' => '/tmp/s2member.tmp',
+  ),
+)
+

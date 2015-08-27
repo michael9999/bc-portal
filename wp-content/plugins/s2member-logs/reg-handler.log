@@ -1,0 +1,2328 @@
+LOG ENTRY: Mon Oct 27th, 2014 @ precisely 8:57 am UTC
+PHP v5.3.28 :: WordPress v3.9.2 :: s2Member v140520
+Memory 48.43 MB :: Real Memory 48.75 MB :: Peak Memory 48.66 MB :: Real Peak Memory 48.75 MB
+www.test-sw2.com/facilities/auto-sign-up/
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/34.0.1847.131 Safari/537.36
+array (
+  'user_id' => 100,
+  'password' => false,
+  'pagenow' => 'index.php',
+  'email_config' => true,
+  'processed' => 'yes',
+  'user' => 
+  WP_User::__set_state(array(
+     'data' => 
+    stdClass::__set_state(array(
+       'ID' => '100',
+       'user_login' => 'camille.roussilhe@britishcouncil.fr',
+       'user_pass' => 'xxxxxxxx/pass',
+       'user_nicename' => 'camille-roussilhebritishcouncil-fr',
+       'user_email' => 'camille.roussilhe@britishcouncil.fr',
+       'user_url' => '',
+       'user_registered' => '2014-10-27 08:57:00',
+       'user_activation_key' => '',
+       'user_status' => '0',
+       'display_name' => 'camille.roussilhe@britishcouncil.fr',
+       'spam' => '0',
+       'deleted' => '0',
+    )),
+     'ID' => 100,
+     'caps' => 
+    array (
+      'subscriber' => true,
+    ),
+     'cap_key' => 'wp_capabilities',
+     'roles' => 
+    array (
+      0 => 'subscriber',
+    ),
+     'allcaps' => 
+    array (
+      'read' => true,
+      'level_0' => true,
+      'publish_bookings' => true,
+      'access_s2member_level0' => true,
+      'subscriber' => true,
+    ),
+     'filter' => NULL,
+  )),
+  '_pmr' => 
+  array (
+    'fm_add' => 'fm_add',
+    'email' => 'camille.roussilhe@britishcouncil.fr',
+    'captcha' => 'chelsea',
+    'createuser' => 'Get started!',
+    0 => '',
+  ),
+  'custom_reg_display_name' => 'full',
+  'reg_cookies' => false,
+  'current_role' => 'subscriber',
+  'role' => 'subscriber',
+  'level' => '0',
+  'ccaps' => '',
+  'email' => 'camille.roussilhe@britishcouncil.fr',
+  'login' => 'camille.roussilhe@britishcouncil.fr',
+  'ip' => '77.242.202.236',
+  'custom' => '',
+  'subscr_id' => '',
+  'subscr_baid' => '',
+  'subscr_gateway' => '',
+  'cv' => 
+  array (
+    0 => '',
+  ),
+  'eot' => '',
+  'auto_eot_time' => '',
+  'notes' => '',
+  'opt_in' => false,
+  'fname' => 'camille.roussilhe@britishcouncil.fr',
+  'lname' => '',
+  'name' => 'camille.roussilhe@britishcouncil.fr',
+  'pass' => 'xxxxxxxx/pass',
+  'fields' => 
+  array (
+  ),
+)
+
+LOG ENTRY: Tue Dec 9th, 2014 @ precisely 8:06 am UTC
+PHP v5.3.28 :: WordPress v3.9.2 :: s2Member v140520
+Memory 59.83 MB :: Real Memory 60.25 MB :: Peak Memory 60.03 MB :: Real Peak Memory 60.25 MB
+www.test-sw2.com/facilities/wp-login.php?action=register
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/38.0.2125.111 Safari/537.36
+array (
+  'user_id' => 101,
+  'password' => false,
+  'pagenow' => 'wp-login.php',
+  'email_config' => true,
+  'processed' => 'yes',
+  'user' => 
+  WP_User::__set_state(array(
+     'data' => 
+    stdClass::__set_state(array(
+       'ID' => '101',
+       'user_login' => 'vcarey',
+       'user_pass' => 'xxxxxxxx/pass',
+       'user_nicename' => 'vcarey',
+       'user_email' => 'ValentinaCarey@britishcouncil.org',
+       'user_url' => '',
+       'user_registered' => '2014-12-09 08:06:51',
+       'user_activation_key' => '',
+       'user_status' => '0',
+       'display_name' => 'vcarey',
+       'spam' => '0',
+       'deleted' => '0',
+    )),
+     'ID' => 101,
+     'caps' => 
+    array (
+      'subscriber' => true,
+    ),
+     'cap_key' => 'wp_capabilities',
+     'roles' => 
+    array (
+      0 => 'subscriber',
+    ),
+     'allcaps' => 
+    array (
+      'read' => true,
+      'level_0' => true,
+      'publish_bookings' => true,
+      'access_s2member_level0' => true,
+      'subscriber' => true,
+    ),
+     'filter' => NULL,
+  )),
+  '_pmr' => 
+  array (
+    'user_login' => 'vcarey',
+    'user_email' => 'ValentinaCarey@britishcouncil.org',
+    'ws_plugin__s2member_registration' => '37e372539c',
+    'ws_plugin__s2member_custom_reg_field_first_name' => 'Valentina',
+    'ws_plugin__s2member_custom_reg_field_last_name' => 'Carey',
+    'redirect_to' => '',
+    'wp-submit' => 'Register',
+    0 => '',
+  ),
+  'custom_reg_display_name' => 'full',
+  'reg_cookies' => false,
+  'current_role' => 'subscriber',
+  'role' => 'subscriber',
+  'level' => '0',
+  'ccaps' => '',
+  'email' => 'ValentinaCarey@britishcouncil.org',
+  'login' => 'vcarey',
+  'ip' => '77.242.202.227',
+  'custom' => '',
+  'subscr_id' => '',
+  'subscr_baid' => '',
+  'subscr_gateway' => '',
+  'cv' => 
+  array (
+    0 => '',
+  ),
+  'eot' => '',
+  'auto_eot_time' => '',
+  'notes' => '',
+  'opt_in' => false,
+  'fname' => 'Valentina',
+  'lname' => 'Carey',
+  'name' => 'Valentina Carey',
+  'pass' => 'xxxxxxxx/pass',
+  'fields' => 
+  array (
+  ),
+)
+
+LOG ENTRY: Tue Dec 9th, 2014 @ precisely 2:15 pm UTC
+PHP v5.3.28 :: WordPress v3.9.2 :: s2Member v140520
+Memory 59.83 MB :: Real Memory 60.25 MB :: Peak Memory 60.03 MB :: Real Peak Memory 60.25 MB
+www.test-sw2.com/facilities/wp-login.php?action=register
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/38.0.2125.111 Safari/537.36
+array (
+  'user_id' => 102,
+  'password' => false,
+  'pagenow' => 'wp-login.php',
+  'email_config' => true,
+  'processed' => 'yes',
+  'user' => 
+  WP_User::__set_state(array(
+     'data' => 
+    stdClass::__set_state(array(
+       'ID' => '102',
+       'user_login' => 'marynesimon',
+       'user_pass' => 'xxxxxxxx/pass',
+       'user_nicename' => 'marynesimon',
+       'user_email' => 'maryne.simon@britishcouncil.fr',
+       'user_url' => '',
+       'user_registered' => '2014-12-09 14:15:55',
+       'user_activation_key' => '',
+       'user_status' => '0',
+       'display_name' => 'marynesimon',
+       'spam' => '0',
+       'deleted' => '0',
+    )),
+     'ID' => 102,
+     'caps' => 
+    array (
+      'subscriber' => true,
+    ),
+     'cap_key' => 'wp_capabilities',
+     'roles' => 
+    array (
+      0 => 'subscriber',
+    ),
+     'allcaps' => 
+    array (
+      'read' => true,
+      'level_0' => true,
+      'publish_bookings' => true,
+      'access_s2member_level0' => true,
+      'subscriber' => true,
+    ),
+     'filter' => NULL,
+  )),
+  '_pmr' => 
+  array (
+    'user_login' => 'marynesimon',
+    'user_email' => 'maryne.simon@britishcouncil.fr',
+    'ws_plugin__s2member_registration' => 'f32ce7c81a',
+    'ws_plugin__s2member_custom_reg_field_first_name' => 'Maryne',
+    'ws_plugin__s2member_custom_reg_field_last_name' => 'SIMON',
+    'redirect_to' => '',
+    'wp-submit' => 'Register',
+    0 => '',
+  ),
+  'custom_reg_display_name' => 'full',
+  'reg_cookies' => false,
+  'current_role' => 'subscriber',
+  'role' => 'subscriber',
+  'level' => '0',
+  'ccaps' => '',
+  'email' => 'maryne.simon@britishcouncil.fr',
+  'login' => 'marynesimon',
+  'ip' => '77.242.202.237',
+  'custom' => '',
+  'subscr_id' => '',
+  'subscr_baid' => '',
+  'subscr_gateway' => '',
+  'cv' => 
+  array (
+    0 => '',
+  ),
+  'eot' => '',
+  'auto_eot_time' => '',
+  'notes' => '',
+  'opt_in' => false,
+  'fname' => 'Maryne',
+  'lname' => 'SIMON',
+  'name' => 'Maryne SIMON',
+  'pass' => 'xxxxxxxx/pass',
+  'fields' => 
+  array (
+  ),
+)
+
+LOG ENTRY: Wed Dec 10th, 2014 @ precisely 12:44 pm UTC
+PHP v5.3.29 :: WordPress v3.9.2 :: s2Member v140520
+Memory 59.79 MB :: Real Memory 60.00 MB :: Peak Memory 59.96 MB :: Real Peak Memory 60.00 MB
+www.test-sw2.com/facilities/wp-login.php?action=register
+User-Agent: Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; WOW64; Trident/5.0)
+array (
+  'user_id' => 103,
+  'password' => false,
+  'pagenow' => 'wp-login.php',
+  'email_config' => true,
+  'processed' => 'yes',
+  'user' => 
+  WP_User::__set_state(array(
+     'data' => 
+    stdClass::__set_state(array(
+       'ID' => '103',
+       'user_login' => 'johnspears',
+       'user_pass' => 'xxxxxxxx/pass',
+       'user_nicename' => 'johnspears',
+       'user_email' => 'john.spears@britishcouncil.fr',
+       'user_url' => '',
+       'user_registered' => '2014-12-10 12:44:01',
+       'user_activation_key' => '',
+       'user_status' => '0',
+       'display_name' => 'johnspears',
+       'spam' => '0',
+       'deleted' => '0',
+    )),
+     'ID' => 103,
+     'caps' => 
+    array (
+      'subscriber' => true,
+    ),
+     'cap_key' => 'wp_capabilities',
+     'roles' => 
+    array (
+      0 => 'subscriber',
+    ),
+     'allcaps' => 
+    array (
+      'read' => true,
+      'level_0' => true,
+      'publish_bookings' => true,
+      'access_s2member_level0' => true,
+      'subscriber' => true,
+    ),
+     'filter' => NULL,
+  )),
+  '_pmr' => 
+  array (
+    'user_login' => 'johnspears',
+    'user_email' => 'john.spears@britishcouncil.fr',
+    'ws_plugin__s2member_registration' => 'cd4991839c',
+    'ws_plugin__s2member_custom_reg_field_first_name' => 'John',
+    'ws_plugin__s2member_custom_reg_field_last_name' => 'Spears',
+    'redirect_to' => '',
+    'wp-submit' => 'Register',
+    0 => '',
+  ),
+  'custom_reg_display_name' => 'full',
+  'reg_cookies' => false,
+  'current_role' => 'subscriber',
+  'role' => 'subscriber',
+  'level' => '0',
+  'ccaps' => '',
+  'email' => 'john.spears@britishcouncil.fr',
+  'login' => 'johnspears',
+  'ip' => '77.242.202.229',
+  'custom' => '',
+  'subscr_id' => '',
+  'subscr_baid' => '',
+  'subscr_gateway' => '',
+  'cv' => 
+  array (
+    0 => '',
+  ),
+  'eot' => '',
+  'auto_eot_time' => '',
+  'notes' => '',
+  'opt_in' => false,
+  'fname' => 'John',
+  'lname' => 'Spears',
+  'name' => 'John Spears',
+  'pass' => 'xxxxxxxx/pass',
+  'fields' => 
+  array (
+  ),
+)
+
+LOG ENTRY: Sat Dec 13th, 2014 @ precisely 12:05 pm UTC
+PHP v5.3.29 :: WordPress v3.9.2 :: s2Member v140520
+Memory 59.84 MB :: Real Memory 60.25 MB :: Peak Memory 60.04 MB :: Real Peak Memory 60.25 MB
+www.test-sw2.com/facilities/wp-login.php?action=register
+User-Agent: Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; WOW64; Trident/5.0)
+array (
+  'user_id' => 104,
+  'password' => false,
+  'pagenow' => 'wp-login.php',
+  'email_config' => true,
+  'processed' => 'yes',
+  'user' => 
+  WP_User::__set_state(array(
+     'data' => 
+    stdClass::__set_state(array(
+       'ID' => '104',
+       'user_login' => 'connorthompson',
+       'user_pass' => 'xxxxxxxx/pass',
+       'user_nicename' => 'connorthompson',
+       'user_email' => 'Connor.Thompson@britishcouncil.fr',
+       'user_url' => '',
+       'user_registered' => '2014-12-13 12:05:30',
+       'user_activation_key' => '',
+       'user_status' => '0',
+       'display_name' => 'connorthompson',
+       'spam' => '0',
+       'deleted' => '0',
+    )),
+     'ID' => 104,
+     'caps' => 
+    array (
+      'subscriber' => true,
+    ),
+     'cap_key' => 'wp_capabilities',
+     'roles' => 
+    array (
+      0 => 'subscriber',
+    ),
+     'allcaps' => 
+    array (
+      'read' => true,
+      'level_0' => true,
+      'publish_bookings' => true,
+      'access_s2member_level0' => true,
+      'subscriber' => true,
+    ),
+     'filter' => NULL,
+  )),
+  '_pmr' => 
+  array (
+    'user_login' => 'connorthompson',
+    'user_email' => 'Connor.Thompson@britishcouncil.fr',
+    'ws_plugin__s2member_registration' => '8471e74719',
+    'ws_plugin__s2member_custom_reg_field_first_name' => 'Connor',
+    'ws_plugin__s2member_custom_reg_field_last_name' => 'Thompson',
+    'redirect_to' => '',
+    'wp-submit' => 'Register',
+    0 => '',
+  ),
+  'custom_reg_display_name' => 'full',
+  'reg_cookies' => false,
+  'current_role' => 'subscriber',
+  'role' => 'subscriber',
+  'level' => '0',
+  'ccaps' => '',
+  'email' => 'Connor.Thompson@britishcouncil.fr',
+  'login' => 'connorthompson',
+  'ip' => '77.242.202.227',
+  'custom' => '',
+  'subscr_id' => '',
+  'subscr_baid' => '',
+  'subscr_gateway' => '',
+  'cv' => 
+  array (
+    0 => '',
+  ),
+  'eot' => '',
+  'auto_eot_time' => '',
+  'notes' => '',
+  'opt_in' => false,
+  'fname' => 'Connor',
+  'lname' => 'Thompson',
+  'name' => 'Connor Thompson',
+  'pass' => 'xxxxxxxx/pass',
+  'fields' => 
+  array (
+  ),
+)
+
+LOG ENTRY: Wed Jan 7th, 2015 @ precisely 3:38 pm UTC
+PHP v5.3.29 :: WordPress v3.9.2 :: s2Member v140520
+Memory 59.85 MB :: Real Memory 60.25 MB :: Peak Memory 60.05 MB :: Real Peak Memory 60.25 MB
+www.test-sw2.com/facilities/wp-login.php?action=register
+User-Agent: Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; WOW64; Trident/5.0)
+array (
+  'user_id' => 105,
+  'password' => false,
+  'pagenow' => 'wp-login.php',
+  'email_config' => true,
+  'processed' => 'yes',
+  'user' => 
+  WP_User::__set_state(array(
+     'data' => 
+    stdClass::__set_state(array(
+       'ID' => '105',
+       'user_login' => 'hudasaid',
+       'user_pass' => 'xxxxxxxx/pass',
+       'user_nicename' => 'hudasaid',
+       'user_email' => 'huda.said@britishcouncil.fr',
+       'user_url' => '',
+       'user_registered' => '2015-01-07 15:38:09',
+       'user_activation_key' => '',
+       'user_status' => '0',
+       'display_name' => 'hudasaid',
+       'spam' => '0',
+       'deleted' => '0',
+    )),
+     'ID' => 105,
+     'caps' => 
+    array (
+      'subscriber' => true,
+    ),
+     'cap_key' => 'wp_capabilities',
+     'roles' => 
+    array (
+      0 => 'subscriber',
+    ),
+     'allcaps' => 
+    array (
+      'read' => true,
+      'level_0' => true,
+      'publish_bookings' => true,
+      'access_s2member_level0' => true,
+      'subscriber' => true,
+    ),
+     'filter' => NULL,
+  )),
+  '_pmr' => 
+  array (
+    'user_login' => 'hudasaid',
+    'user_email' => 'huda.said@britishcouncil.fr',
+    'ws_plugin__s2member_registration' => '99d2537240',
+    'ws_plugin__s2member_custom_reg_field_first_name' => 'Huda',
+    'ws_plugin__s2member_custom_reg_field_last_name' => 'Said',
+    'redirect_to' => '',
+    'wp-submit' => 'Register',
+    0 => '',
+  ),
+  'custom_reg_display_name' => 'full',
+  'reg_cookies' => false,
+  'current_role' => 'subscriber',
+  'role' => 'subscriber',
+  'level' => '0',
+  'ccaps' => '',
+  'email' => 'huda.said@britishcouncil.fr',
+  'login' => 'hudasaid',
+  'ip' => '77.242.202.234',
+  'custom' => '',
+  'subscr_id' => '',
+  'subscr_baid' => '',
+  'subscr_gateway' => '',
+  'cv' => 
+  array (
+    0 => '',
+  ),
+  'eot' => '',
+  'auto_eot_time' => '',
+  'notes' => '',
+  'opt_in' => false,
+  'fname' => 'Huda',
+  'lname' => 'Said',
+  'name' => 'Huda Said',
+  'pass' => 'xxxxxxxx/pass',
+  'fields' => 
+  array (
+  ),
+)
+
+LOG ENTRY: Tue Jan 27th, 2015 @ precisely 7:22 am UTC
+PHP v5.3.29 :: WordPress v3.9.2 :: s2Member v140520
+Memory 59.85 MB :: Real Memory 60.25 MB :: Peak Memory 60.06 MB :: Real Peak Memory 60.25 MB
+www.test-sw2.com/facilities/wp-login.php?action=register
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/38.0.2125.111 Safari/537.36
+array (
+  'user_id' => 106,
+  'password' => false,
+  'pagenow' => 'wp-login.php',
+  'email_config' => true,
+  'processed' => 'yes',
+  'user' => 
+  WP_User::__set_state(array(
+     'data' => 
+    stdClass::__set_state(array(
+       'ID' => '106',
+       'user_login' => 'sharonkariyawasam',
+       'user_pass' => 'xxxxxxxx/pass',
+       'user_nicename' => 'sharonkariyawasam',
+       'user_email' => 'sharon.kariyawasam@britishcouncil.fr',
+       'user_url' => '',
+       'user_registered' => '2015-01-27 07:22:54',
+       'user_activation_key' => '',
+       'user_status' => '0',
+       'display_name' => 'sharonkariyawasam',
+       'spam' => '0',
+       'deleted' => '0',
+    )),
+     'ID' => 106,
+     'caps' => 
+    array (
+      'subscriber' => true,
+    ),
+     'cap_key' => 'wp_capabilities',
+     'roles' => 
+    array (
+      0 => 'subscriber',
+    ),
+     'allcaps' => 
+    array (
+      'read' => true,
+      'level_0' => true,
+      'publish_bookings' => true,
+      'access_s2member_level0' => true,
+      'subscriber' => true,
+    ),
+     'filter' => NULL,
+  )),
+  '_pmr' => 
+  array (
+    'user_login' => 'sharonkariyawasam',
+    'user_email' => 'sharon.kariyawasam@britishcouncil.fr',
+    'ws_plugin__s2member_registration' => '50ae7a6667',
+    'ws_plugin__s2member_custom_reg_field_first_name' => 'Sharon',
+    'ws_plugin__s2member_custom_reg_field_last_name' => 'Kariyawasam',
+    'redirect_to' => '',
+    'wp-submit' => 'Register',
+    0 => '',
+  ),
+  'custom_reg_display_name' => 'full',
+  'reg_cookies' => false,
+  'current_role' => 'subscriber',
+  'role' => 'subscriber',
+  'level' => '0',
+  'ccaps' => '',
+  'email' => 'sharon.kariyawasam@britishcouncil.fr',
+  'login' => 'sharonkariyawasam',
+  'ip' => '77.242.202.244',
+  'custom' => '',
+  'subscr_id' => '',
+  'subscr_baid' => '',
+  'subscr_gateway' => '',
+  'cv' => 
+  array (
+    0 => '',
+  ),
+  'eot' => '',
+  'auto_eot_time' => '',
+  'notes' => '',
+  'opt_in' => false,
+  'fname' => 'Sharon',
+  'lname' => 'Kariyawasam',
+  'name' => 'Sharon Kariyawasam',
+  'pass' => 'xxxxxxxx/pass',
+  'fields' => 
+  array (
+  ),
+)
+
+LOG ENTRY: Fri Jan 30th, 2015 @ precisely 4:22 pm UTC
+PHP v5.3.29 :: WordPress v3.9.2 :: s2Member v140520
+Memory 59.81 MB :: Real Memory 60.25 MB :: Peak Memory 60.01 MB :: Real Peak Memory 60.25 MB
+www.test-sw2.com/facilities/wp-login.php?action=register
+User-Agent: Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; WOW64; Trident/5.0)
+array (
+  'user_id' => 107,
+  'password' => false,
+  'pagenow' => 'wp-login.php',
+  'email_config' => true,
+  'processed' => 'yes',
+  'user' => 
+  WP_User::__set_state(array(
+     'data' => 
+    stdClass::__set_state(array(
+       'ID' => '107',
+       'user_login' => 'nayribrahim',
+       'user_pass' => 'xxxxxxxx/pass',
+       'user_nicename' => 'nayribrahim',
+       'user_email' => 'nayr.ibrahim@britishcouncil.fr',
+       'user_url' => '',
+       'user_registered' => '2015-01-30 16:22:05',
+       'user_activation_key' => '',
+       'user_status' => '0',
+       'display_name' => 'nayribrahim',
+       'spam' => '0',
+       'deleted' => '0',
+    )),
+     'ID' => 107,
+     'caps' => 
+    array (
+      'subscriber' => true,
+    ),
+     'cap_key' => 'wp_capabilities',
+     'roles' => 
+    array (
+      0 => 'subscriber',
+    ),
+     'allcaps' => 
+    array (
+      'read' => true,
+      'level_0' => true,
+      'publish_bookings' => true,
+      'access_s2member_level0' => true,
+      'subscriber' => true,
+    ),
+     'filter' => NULL,
+  )),
+  '_pmr' => 
+  array (
+    'user_login' => 'nayribrahim',
+    'user_email' => 'nayr.ibrahim@britishcouncil.fr',
+    'ws_plugin__s2member_registration' => 'a86d402905',
+    'ws_plugin__s2member_custom_reg_field_first_name' => 'Nayr',
+    'ws_plugin__s2member_custom_reg_field_last_name' => 'Ibrahim',
+    'redirect_to' => '',
+    'wp-submit' => 'Register',
+    0 => '',
+  ),
+  'custom_reg_display_name' => 'full',
+  'reg_cookies' => false,
+  'current_role' => 'subscriber',
+  'role' => 'subscriber',
+  'level' => '0',
+  'ccaps' => '',
+  'email' => 'nayr.ibrahim@britishcouncil.fr',
+  'login' => 'nayribrahim',
+  'ip' => '77.242.202.237',
+  'custom' => '',
+  'subscr_id' => '',
+  'subscr_baid' => '',
+  'subscr_gateway' => '',
+  'cv' => 
+  array (
+    0 => '',
+  ),
+  'eot' => '',
+  'auto_eot_time' => '',
+  'notes' => '',
+  'opt_in' => false,
+  'fname' => 'Nayr',
+  'lname' => 'Ibrahim',
+  'name' => 'Nayr Ibrahim',
+  'pass' => 'xxxxxxxx/pass',
+  'fields' => 
+  array (
+  ),
+)
+
+LOG ENTRY: Mon Feb 23rd, 2015 @ precisely 7:45 am UTC
+PHP v5.3.29 :: WordPress v3.9.2 :: s2Member v140520
+Memory 60.96 MB :: Real Memory 61.25 MB :: Peak Memory 61.18 MB :: Real Peak Memory 61.25 MB
+www.test-sw2.com/facilities/wp-login.php?action=register
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10.10; rv:34.0) Gecko/20100101 Firefox/34.0
+array (
+  'user_id' => 83,
+  'password' => false,
+  'pagenow' => 'wp-login.php',
+  'email_config' => true,
+  'processed' => 'yes',
+  'user' => 
+  WP_User::__set_state(array(
+     'data' => 
+    stdClass::__set_state(array(
+       'ID' => '83',
+       'user_login' => 'idegreeuk@gmail.com',
+       'user_pass' => 'xxxxxxxx/pass',
+       'user_nicename' => 'idegreeukgmail-com',
+       'user_email' => 'idegreeuk@gmail.com',
+       'user_url' => '',
+       'user_registered' => '2014-09-12 07:04:44',
+       'user_activation_key' => '',
+       'user_status' => '0',
+       'display_name' => 'idegreeuk@gmail.com',
+       'spam' => '0',
+       'deleted' => '0',
+    )),
+     'ID' => 83,
+     'caps' => 
+    array (
+      'subscriber' => true,
+    ),
+     'cap_key' => 'wp_capabilities',
+     'roles' => 
+    array (
+      0 => 'subscriber',
+    ),
+     'allcaps' => 
+    array (
+      'read' => true,
+      'level_0' => true,
+      'publish_bookings' => true,
+      'access_s2member_level0' => true,
+      'subscriber' => true,
+    ),
+     'filter' => NULL,
+  )),
+  '_pmr' => 
+  array (
+    'user_login' => 'idegreeuk@gmail.com',
+    'user_email' => 'idegreeuk@gmail.com',
+    'ws_plugin__s2member_registration' => 'cd2a867229',
+    'ws_plugin__s2member_custom_reg_field_first_name' => 'idegree',
+    'ws_plugin__s2member_custom_reg_field_last_name' => 'uk',
+    'redirect_to' => '',
+    'wp-submit' => 'Register',
+    0 => '',
+  ),
+  'custom_reg_display_name' => 'full',
+  'reg_cookies' => false,
+  'current_role' => 'subscriber',
+  'role' => 'subscriber',
+  'level' => '0',
+  'ccaps' => '',
+  'email' => 'idegreeuk@gmail.com',
+  'login' => 'idegreeuk@gmail.com',
+  'ip' => '217.128.87.21',
+  'custom' => '',
+  'subscr_id' => '',
+  'subscr_baid' => '',
+  'subscr_gateway' => '',
+  'cv' => 
+  array (
+    0 => '',
+  ),
+  'eot' => '',
+  'auto_eot_time' => '',
+  'notes' => '',
+  'opt_in' => false,
+  'fname' => 'idegreeuk@gmail.com',
+  'lname' => 'uk',
+  'name' => 'idegreeuk@gmail.com uk',
+  'pass' => 'xxxxxxxx/pass',
+  'fields' => 
+  array (
+  ),
+)
+
+LOG ENTRY: Fri Feb 27th, 2015 @ precisely 11:52 am UTC
+PHP v5.3.29 :: WordPress v3.9.2 :: s2Member v140520
+Memory 59.85 MB :: Real Memory 60.25 MB :: Peak Memory 60.05 MB :: Real Peak Memory 60.25 MB
+www.test-sw2.com/facilities/wp-login.php?action=register
+User-Agent: Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; WOW64; Trident/5.0)
+array (
+  'user_id' => 108,
+  'password' => false,
+  'pagenow' => 'wp-login.php',
+  'email_config' => true,
+  'processed' => 'yes',
+  'user' => 
+  WP_User::__set_state(array(
+     'data' => 
+    stdClass::__set_state(array(
+       'ID' => '108',
+       'user_login' => 'lauramaxwell',
+       'user_pass' => 'xxxxxxxx/pass',
+       'user_nicename' => 'lauramaxwell',
+       'user_email' => 'Laura.Maxwell@britishcouncil.org',
+       'user_url' => '',
+       'user_registered' => '2015-02-27 11:52:26',
+       'user_activation_key' => '',
+       'user_status' => '0',
+       'display_name' => 'lauramaxwell',
+       'spam' => '0',
+       'deleted' => '0',
+    )),
+     'ID' => 108,
+     'caps' => 
+    array (
+      'subscriber' => true,
+    ),
+     'cap_key' => 'wp_capabilities',
+     'roles' => 
+    array (
+      0 => 'subscriber',
+    ),
+     'allcaps' => 
+    array (
+      'read' => true,
+      'level_0' => true,
+      'publish_bookings' => true,
+      'access_s2member_level0' => true,
+      'subscriber' => true,
+    ),
+     'filter' => NULL,
+  )),
+  '_pmr' => 
+  array (
+    'user_login' => 'lauramaxwell',
+    'user_email' => 'Laura.Maxwell@britishcouncil.org',
+    'ws_plugin__s2member_registration' => 'ab2542ccc8',
+    'ws_plugin__s2member_custom_reg_field_first_name' => 'Laura',
+    'ws_plugin__s2member_custom_reg_field_last_name' => 'Maxwell',
+    'redirect_to' => '',
+    'wp-submit' => 'Register',
+    0 => '',
+  ),
+  'custom_reg_display_name' => 'full',
+  'reg_cookies' => false,
+  'current_role' => 'subscriber',
+  'role' => 'subscriber',
+  'level' => '0',
+  'ccaps' => '',
+  'email' => 'Laura.Maxwell@britishcouncil.org',
+  'login' => 'lauramaxwell',
+  'ip' => '77.242.202.227',
+  'custom' => '',
+  'subscr_id' => '',
+  'subscr_baid' => '',
+  'subscr_gateway' => '',
+  'cv' => 
+  array (
+    0 => '',
+  ),
+  'eot' => '',
+  'auto_eot_time' => '',
+  'notes' => '',
+  'opt_in' => false,
+  'fname' => 'Laura',
+  'lname' => 'Maxwell',
+  'name' => 'Laura Maxwell',
+  'pass' => 'xxxxxxxx/pass',
+  'fields' => 
+  array (
+  ),
+)
+
+LOG ENTRY: Fri Feb 27th, 2015 @ precisely 3:24 pm UTC
+PHP v5.3.29 :: WordPress v3.9.2 :: s2Member v140520
+Memory 59.81 MB :: Real Memory 60.25 MB :: Peak Memory 59.98 MB :: Real Peak Memory 60.25 MB
+www.test-sw2.com/facilities/wp-login.php?action=register
+User-Agent: Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; WOW64; Trident/5.0)
+array (
+  'user_id' => 109,
+  'password' => false,
+  'pagenow' => 'wp-login.php',
+  'email_config' => true,
+  'processed' => 'yes',
+  'user' => 
+  WP_User::__set_state(array(
+     'data' => 
+    stdClass::__set_state(array(
+       'ID' => '109',
+       'user_login' => 'laura.maxwell',
+       'user_pass' => 'xxxxxxxx/pass',
+       'user_nicename' => 'laura-maxwell',
+       'user_email' => 'laura.maxwll@gmail.com',
+       'user_url' => '',
+       'user_registered' => '2015-02-27 15:24:45',
+       'user_activation_key' => '',
+       'user_status' => '0',
+       'display_name' => 'laura.maxwell',
+       'spam' => '0',
+       'deleted' => '0',
+    )),
+     'ID' => 109,
+     'caps' => 
+    array (
+      'subscriber' => true,
+    ),
+     'cap_key' => 'wp_capabilities',
+     'roles' => 
+    array (
+      0 => 'subscriber',
+    ),
+     'allcaps' => 
+    array (
+      'read' => true,
+      'level_0' => true,
+      'publish_bookings' => true,
+      'access_s2member_level0' => true,
+      'subscriber' => true,
+    ),
+     'filter' => NULL,
+  )),
+  '_pmr' => 
+  array (
+    'user_login' => 'laura.maxwell',
+    'user_email' => 'laura.maxwll@gmail.com',
+    'ws_plugin__s2member_registration' => '6b1d0b7367',
+    'ws_plugin__s2member_custom_reg_field_first_name' => 'Laura',
+    'ws_plugin__s2member_custom_reg_field_last_name' => 'Maxwell',
+    'redirect_to' => '',
+    'wp-submit' => 'Register',
+    0 => '',
+  ),
+  'custom_reg_display_name' => 'full',
+  'reg_cookies' => false,
+  'current_role' => 'subscriber',
+  'role' => 'subscriber',
+  'level' => '0',
+  'ccaps' => '',
+  'email' => 'laura.maxwll@gmail.com',
+  'login' => 'laura.maxwell',
+  'ip' => '77.242.202.243',
+  'custom' => '',
+  'subscr_id' => '',
+  'subscr_baid' => '',
+  'subscr_gateway' => '',
+  'cv' => 
+  array (
+    0 => '',
+  ),
+  'eot' => '',
+  'auto_eot_time' => '',
+  'notes' => '',
+  'opt_in' => false,
+  'fname' => 'Laura',
+  'lname' => 'Maxwell',
+  'name' => 'Laura Maxwell',
+  'pass' => 'xxxxxxxx/pass',
+  'fields' => 
+  array (
+  ),
+)
+
+LOG ENTRY: Thu Mar 12th, 2015 @ precisely 10:17 am UTC
+PHP v5.3.29 :: WordPress v3.9.2 :: s2Member v140520
+Memory 71.27 MB :: Real Memory 71.75 MB :: Peak Memory 71.47 MB :: Real Peak Memory 71.75 MB
+www.test-sw2.com/facilities/wp-admin/user-new.php
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/39.0.2171.95 Safari/537.36
+array (
+  'user_id' => 110,
+  'password' => 'xxxxxxxx/pass',
+  'pagenow' => 'user-new.php',
+  'email_config' => true,
+  'processed' => 'yes',
+  'user' => 
+  WP_User::__set_state(array(
+     'data' => 
+    stdClass::__set_state(array(
+       'ID' => '110',
+       'user_login' => 'marietredy',
+       'user_pass' => 'xxxxxxxx/pass',
+       'user_nicename' => 'marietredy',
+       'user_email' => 'marie.tredy@britishcouncil.fr',
+       'user_url' => '',
+       'user_registered' => '2015-03-12 10:17:10',
+       'user_activation_key' => '',
+       'user_status' => '0',
+       'display_name' => 'marietredy',
+       'spam' => '0',
+       'deleted' => '0',
+    )),
+     'ID' => 110,
+     'caps' => 
+    array (
+      'subscriber' => true,
+    ),
+     'cap_key' => 'wp_capabilities',
+     'roles' => 
+    array (
+      0 => 'subscriber',
+    ),
+     'allcaps' => 
+    array (
+      'read' => true,
+      'level_0' => true,
+      'publish_bookings' => true,
+      'access_s2member_level0' => true,
+      'subscriber' => true,
+    ),
+     'filter' => NULL,
+  )),
+  '_pmr' => 
+  array (
+    'action' => 'createuser',
+    '_wpnonce_create-user' => '26be246585',
+    '_wp_http_referer' => '/facilities/wp-admin/user-new.php',
+    'user_login' => 'marietredy',
+    'email' => 'marie.tredy@britishcouncil.fr',
+    'role' => 'subscriber',
+    'noconfirmation' => '1',
+    'ws_plugin__s2member_user_new_first_name' => '',
+    'ws_plugin__s2member_user_new_last_name' => '',
+    'ws_plugin__s2member_user_new_s2member_subscr_gateway' => '',
+    'ws_plugin__s2member_user_new_s2member_subscr_id' => '',
+    'ws_plugin__s2member_user_new_s2member_custom' => '',
+    'ws_plugin__s2member_user_new_s2member_registration_ip' => '',
+    'ws_plugin__s2member_user_new_s2member_ccaps' => '',
+    'ws_plugin__s2member_user_new_s2member_auto_eot_time' => '',
+    'ws_plugin__s2member_user_new_s2member_notes' => '',
+    'createuser' => 'Add New User',
+    'ws_plugin__s2member_custom_reg_field_first_name' => '',
+    'ws_plugin__s2member_custom_reg_field_last_name' => '',
+    'ws_plugin__s2member_custom_reg_field_s2member_subscr_gateway' => '',
+    'ws_plugin__s2member_custom_reg_field_s2member_subscr_id' => '',
+    'ws_plugin__s2member_custom_reg_field_s2member_custom' => '',
+    'ws_plugin__s2member_custom_reg_field_s2member_registration_ip' => '',
+    'ws_plugin__s2member_custom_reg_field_s2member_ccaps' => '',
+    'ws_plugin__s2member_custom_reg_field_s2member_auto_eot_time' => '',
+    'ws_plugin__s2member_custom_reg_field_s2member_notes' => '',
+  ),
+  'custom_reg_display_name' => 'full',
+  'current_role' => 'subscriber',
+  'role' => 'subscriber',
+  'level' => '0',
+  'ccaps' => '',
+  'email' => 'marie.tredy@britishcouncil.fr',
+  'login' => 'marietredy',
+  'ip' => '',
+  'custom' => '',
+  'subscr_id' => '',
+  'subscr_baid' => '',
+  'subscr_gateway' => '',
+  'cv' => 
+  array (
+    0 => '',
+  ),
+  'eot' => '',
+  'auto_eot_time' => '',
+  'notes' => '',
+  'opt_in' => false,
+  'fname' => 'marietredy',
+  'lname' => '',
+  'name' => 'marietredy',
+  'pass' => 'xxxxxxxx/pass',
+  'fields' => 
+  array (
+  ),
+)
+
+LOG ENTRY: Tue Mar 17th, 2015 @ precisely 8:47 am UTC
+PHP v5.3.29 :: WordPress v3.9.2 :: s2Member v140520
+Memory 59.86 MB :: Real Memory 60.25 MB :: Peak Memory 60.06 MB :: Real Peak Memory 60.25 MB
+www.test-sw2.com/facilities/wp-login.php?action=register
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2272.76 Safari/537.36
+array (
+  'user_id' => 111,
+  'password' => false,
+  'pagenow' => 'wp-login.php',
+  'email_config' => true,
+  'processed' => 'yes',
+  'user' => 
+  WP_User::__set_state(array(
+     'data' => 
+    stdClass::__set_state(array(
+       'ID' => '111',
+       'user_login' => 'annaq89',
+       'user_pass' => 'xxxxxxxx/pass',
+       'user_nicename' => 'annaq89',
+       'user_email' => 'annaquinn@live.com',
+       'user_url' => '',
+       'user_registered' => '2015-03-17 08:47:46',
+       'user_activation_key' => '',
+       'user_status' => '0',
+       'display_name' => 'annaq89',
+       'spam' => '0',
+       'deleted' => '0',
+    )),
+     'ID' => 111,
+     'caps' => 
+    array (
+      'subscriber' => true,
+    ),
+     'cap_key' => 'wp_capabilities',
+     'roles' => 
+    array (
+      0 => 'subscriber',
+    ),
+     'allcaps' => 
+    array (
+      'read' => true,
+      'level_0' => true,
+      'publish_bookings' => true,
+      'access_s2member_level0' => true,
+      'subscriber' => true,
+    ),
+     'filter' => NULL,
+  )),
+  '_pmr' => 
+  array (
+    'user_login' => 'annaq89',
+    'user_email' => 'annaquinn@live.com',
+    'ws_plugin__s2member_registration' => '3c444b0fd6',
+    'ws_plugin__s2member_custom_reg_field_first_name' => 'Anna',
+    'ws_plugin__s2member_custom_reg_field_last_name' => 'Quinn',
+    'redirect_to' => '',
+    'wp-submit' => 'Register',
+    0 => '',
+  ),
+  'custom_reg_display_name' => 'full',
+  'reg_cookies' => false,
+  'current_role' => 'subscriber',
+  'role' => 'subscriber',
+  'level' => '0',
+  'ccaps' => '',
+  'email' => 'annaquinn@live.com',
+  'login' => 'annaq89',
+  'ip' => '88.189.21.170',
+  'custom' => '',
+  'subscr_id' => '',
+  'subscr_baid' => '',
+  'subscr_gateway' => '',
+  'cv' => 
+  array (
+    0 => '',
+  ),
+  'eot' => '',
+  'auto_eot_time' => '',
+  'notes' => '',
+  'opt_in' => false,
+  'fname' => 'Anna',
+  'lname' => 'Quinn',
+  'name' => 'Anna Quinn',
+  'pass' => 'xxxxxxxx/pass',
+  'fields' => 
+  array (
+  ),
+)
+
+LOG ENTRY: Mon May 11th, 2015 @ precisely 6:41 am UTC
+PHP v5.3.29 :: WordPress v3.9.2 :: s2Member v140520
+Memory 59.95 MB :: Real Memory 60.25 MB :: Peak Memory 60.15 MB :: Real Peak Memory 60.25 MB
+www.test-sw2.com/facilities/wp-login.php?action=register
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10.10; rv:37.0) Gecko/20100101 Firefox/37.0
+array (
+  'user_id' => 115,
+  'password' => false,
+  'pagenow' => 'wp-login.php',
+  'email_config' => true,
+  'processed' => 'yes',
+  'user' => 
+  WP_User::__set_state(array(
+     'data' => 
+    stdClass::__set_state(array(
+       'ID' => '115',
+       'user_login' => 'carolinepearsall',
+       'user_pass' => 'xxxxxxxx/pass',
+       'user_nicename' => 'carolinepearsall',
+       'user_email' => 'caroline.pearsall@gmail.com',
+       'user_url' => '',
+       'user_registered' => '2015-05-11 06:40:58',
+       'user_activation_key' => '',
+       'user_status' => '0',
+       'display_name' => 'carolinepearsall',
+       'spam' => '0',
+       'deleted' => '0',
+    )),
+     'ID' => 115,
+     'caps' => 
+    array (
+      'subscriber' => true,
+    ),
+     'cap_key' => 'wp_capabilities',
+     'roles' => 
+    array (
+      0 => 'subscriber',
+    ),
+     'allcaps' => 
+    array (
+      'read' => true,
+      'level_0' => true,
+      'publish_bookings' => true,
+      'access_s2member_level0' => true,
+      'subscriber' => true,
+    ),
+     'filter' => NULL,
+  )),
+  '_pmr' => 
+  array (
+    'user_login' => 'carolinepearsall',
+    'user_email' => 'caroline.pearsall@gmail.com',
+    'ws_plugin__s2member_registration' => '7809e06b78',
+    'ws_plugin__s2member_custom_reg_field_first_name' => 'Caroline',
+    'ws_plugin__s2member_custom_reg_field_last_name' => 'Pearsall',
+    'redirect_to' => '',
+    'wp-submit' => 'Register',
+    0 => '',
+  ),
+  'custom_reg_display_name' => 'full',
+  'reg_cookies' => false,
+  'current_role' => 'subscriber',
+  'role' => 'subscriber',
+  'level' => '0',
+  'ccaps' => '',
+  'email' => 'caroline.pearsall@gmail.com',
+  'login' => 'carolinepearsall',
+  'ip' => '88.142.165.243',
+  'custom' => '',
+  'subscr_id' => '',
+  'subscr_baid' => '',
+  'subscr_gateway' => '',
+  'cv' => 
+  array (
+    0 => '',
+  ),
+  'eot' => '',
+  'auto_eot_time' => '',
+  'notes' => '',
+  'opt_in' => false,
+  'fname' => 'Caroline',
+  'lname' => 'Pearsall',
+  'name' => 'Caroline Pearsall',
+  'pass' => 'xxxxxxxx/pass',
+  'fields' => 
+  array (
+  ),
+)
+
+LOG ENTRY: Sat May 16th, 2015 @ precisely 11:08 am UTC
+PHP v5.3.29 :: WordPress v3.9.2 :: s2Member v140520
+Memory 59.94 MB :: Real Memory 60.25 MB :: Peak Memory 60.14 MB :: Real Peak Memory 60.25 MB
+www.test-sw2.com/facilities/wp-login.php?action=register
+User-Agent: Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; WOW64; Trident/5.0)
+array (
+  'user_id' => 116,
+  'password' => false,
+  'pagenow' => 'wp-login.php',
+  'email_config' => true,
+  'processed' => 'yes',
+  'user' => 
+  WP_User::__set_state(array(
+     'data' => 
+    stdClass::__set_state(array(
+       'ID' => '116',
+       'user_login' => 'nickyfrancis',
+       'user_pass' => 'xxxxxxxx/pass',
+       'user_nicename' => 'nickyfrancis',
+       'user_email' => 'nicky.francis@britishcouncil.fr',
+       'user_url' => '',
+       'user_registered' => '2015-05-16 11:08:39',
+       'user_activation_key' => '',
+       'user_status' => '0',
+       'display_name' => 'nickyfrancis',
+       'spam' => '0',
+       'deleted' => '0',
+    )),
+     'ID' => 116,
+     'caps' => 
+    array (
+      'subscriber' => true,
+    ),
+     'cap_key' => 'wp_capabilities',
+     'roles' => 
+    array (
+      0 => 'subscriber',
+    ),
+     'allcaps' => 
+    array (
+      'read' => true,
+      'level_0' => true,
+      'publish_bookings' => true,
+      'access_s2member_level0' => true,
+      'subscriber' => true,
+    ),
+     'filter' => NULL,
+  )),
+  '_pmr' => 
+  array (
+    'user_login' => 'nickyfrancis',
+    'user_email' => 'nicky.francis@britishcouncil.fr',
+    'ws_plugin__s2member_registration' => '7cae6ae494',
+    'ws_plugin__s2member_custom_reg_field_first_name' => 'Nicky',
+    'ws_plugin__s2member_custom_reg_field_last_name' => 'Francis',
+    'redirect_to' => '',
+    'wp-submit' => 'Register',
+    0 => '',
+  ),
+  'custom_reg_display_name' => 'full',
+  'reg_cookies' => false,
+  'current_role' => 'subscriber',
+  'role' => 'subscriber',
+  'level' => '0',
+  'ccaps' => '',
+  'email' => 'nicky.francis@britishcouncil.fr',
+  'login' => 'nickyfrancis',
+  'ip' => '77.242.202.243',
+  'custom' => '',
+  'subscr_id' => '',
+  'subscr_baid' => '',
+  'subscr_gateway' => '',
+  'cv' => 
+  array (
+    0 => '',
+  ),
+  'eot' => '',
+  'auto_eot_time' => '',
+  'notes' => '',
+  'opt_in' => false,
+  'fname' => 'Nicky',
+  'lname' => 'Francis',
+  'name' => 'Nicky Francis',
+  'pass' => 'xxxxxxxx/pass',
+  'fields' => 
+  array (
+  ),
+)
+
+LOG ENTRY: Wed May 20th, 2015 @ precisely 4:32 pm UTC
+PHP v5.3.29 :: WordPress v3.9.2 :: s2Member v140520
+Memory 59.94 MB :: Real Memory 60.25 MB :: Peak Memory 60.14 MB :: Real Peak Memory 60.25 MB
+www.test-sw2.com/facilities/wp-login.php?action=register
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/39.0.2171.95 Safari/537.36
+array (
+  'user_id' => 117,
+  'password' => false,
+  'pagenow' => 'wp-login.php',
+  'email_config' => true,
+  'processed' => 'yes',
+  'user' => 
+  WP_User::__set_state(array(
+     'data' => 
+    stdClass::__set_state(array(
+       'ID' => '117',
+       'user_login' => 'salah',
+       'user_pass' => 'xxxxxxxx/pass',
+       'user_nicename' => 'salah',
+       'user_email' => 'yamaha-r11@live.fr',
+       'user_url' => '',
+       'user_registered' => '2015-05-20 16:31:58',
+       'user_activation_key' => '',
+       'user_status' => '0',
+       'display_name' => 'salah',
+       'spam' => '0',
+       'deleted' => '0',
+    )),
+     'ID' => 117,
+     'caps' => 
+    array (
+      'subscriber' => true,
+    ),
+     'cap_key' => 'wp_capabilities',
+     'roles' => 
+    array (
+      0 => 'subscriber',
+    ),
+     'allcaps' => 
+    array (
+      'read' => true,
+      'level_0' => true,
+      'publish_bookings' => true,
+      'access_s2member_level0' => true,
+      'subscriber' => true,
+    ),
+     'filter' => NULL,
+  )),
+  '_pmr' => 
+  array (
+    'user_login' => 'salah',
+    'user_email' => 'yamaha-r11@live.fr',
+    'ws_plugin__s2member_registration' => '45662b0f70',
+    'ws_plugin__s2member_custom_reg_field_first_name' => 'Salah',
+    'ws_plugin__s2member_custom_reg_field_last_name' => 'Changriha',
+    'redirect_to' => '',
+    'wp-submit' => 'Register',
+    0 => '',
+  ),
+  'custom_reg_display_name' => 'full',
+  'reg_cookies' => false,
+  'current_role' => 'subscriber',
+  'role' => 'subscriber',
+  'level' => '0',
+  'ccaps' => '',
+  'email' => 'yamaha-r11@live.fr',
+  'login' => 'salah',
+  'ip' => '77.242.202.234',
+  'custom' => '',
+  'subscr_id' => '',
+  'subscr_baid' => '',
+  'subscr_gateway' => '',
+  'cv' => 
+  array (
+    0 => '',
+  ),
+  'eot' => '',
+  'auto_eot_time' => '',
+  'notes' => '',
+  'opt_in' => false,
+  'fname' => 'Salah',
+  'lname' => 'Changriha',
+  'name' => 'Salah Changriha',
+  'pass' => 'xxxxxxxx/pass',
+  'fields' => 
+  array (
+  ),
+)
+
+LOG ENTRY: Wed May 27th, 2015 @ precisely 1:22 pm UTC
+PHP v5.3.29 :: WordPress v3.9.2 :: s2Member v140520
+Memory 63.91 MB :: Real Memory 64.50 MB :: Peak Memory 64.11 MB :: Real Peak Memory 64.50 MB
+www.test-sw2.com/facilities/wp-login.php?action=register
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:38.0) Gecko/20100101 Firefox/38.0
+array (
+  'user_id' => 118,
+  'password' => false,
+  'pagenow' => 'wp-login.php',
+  'email_config' => true,
+  'processed' => 'yes',
+  'user' => 
+  WP_User::__set_state(array(
+     'data' => 
+    stdClass::__set_state(array(
+       'ID' => '118',
+       'user_login' => 'erica.burnham',
+       'user_pass' => 'xxxxxxxx/pass',
+       'user_nicename' => 'erica-burnham',
+       'user_email' => 'erica.burnham@ulip.lon.ac.uk',
+       'user_url' => '',
+       'user_registered' => '2015-05-27 13:22:03',
+       'user_activation_key' => '',
+       'user_status' => '0',
+       'display_name' => 'erica.burnham',
+       'spam' => '0',
+       'deleted' => '0',
+    )),
+     'ID' => 118,
+     'caps' => 
+    array (
+      'subscriber' => true,
+    ),
+     'cap_key' => 'wp_capabilities',
+     'roles' => 
+    array (
+      0 => 'subscriber',
+    ),
+     'allcaps' => 
+    array (
+      'read' => true,
+      'level_0' => true,
+      'publish_bookings' => true,
+      'access_s2member_level0' => true,
+      'subscriber' => true,
+    ),
+     'filter' => NULL,
+  )),
+  '_pmr' => 
+  array (
+    'user_login' => 'erica.burnham',
+    'user_email' => 'erica.burnham@ulip.lon.ac.uk',
+    'ws_plugin__s2member_registration' => '278c559c4f',
+    'ws_plugin__s2member_custom_reg_field_first_name' => 'Erica',
+    'ws_plugin__s2member_custom_reg_field_last_name' => 'Burnham',
+    'redirect_to' => '',
+    'wp-submit' => 'Register',
+    0 => '',
+  ),
+  'custom_reg_display_name' => 'full',
+  'reg_cookies' => false,
+  'current_role' => 'subscriber',
+  'role' => 'subscriber',
+  'level' => '0',
+  'ccaps' => '',
+  'email' => 'erica.burnham@ulip.lon.ac.uk',
+  'login' => 'erica.burnham',
+  'ip' => '217.109.60.10',
+  'custom' => '',
+  'subscr_id' => '',
+  'subscr_baid' => '',
+  'subscr_gateway' => '',
+  'cv' => 
+  array (
+    0 => '',
+  ),
+  'eot' => '',
+  'auto_eot_time' => '',
+  'notes' => '',
+  'opt_in' => false,
+  'fname' => 'Erica',
+  'lname' => 'Burnham',
+  'name' => 'Erica Burnham',
+  'pass' => 'xxxxxxxx/pass',
+  'fields' => 
+  array (
+  ),
+)
+
+LOG ENTRY: Tue Jun 2nd, 2015 @ precisely 8:24 am UTC
+PHP v5.3.29 :: WordPress v3.9.2 :: s2Member v140520
+Memory 63.96 MB :: Real Memory 64.50 MB :: Peak Memory 64.19 MB :: Real Peak Memory 64.50 MB
+www.test-sw2.com/facilities/wp-login.php?action=register
+User-Agent: Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; WOW64; Trident/5.0)
+array (
+  'user_id' => 119,
+  'password' => false,
+  'pagenow' => 'wp-login.php',
+  'email_config' => true,
+  'processed' => 'yes',
+  'user' => 
+  WP_User::__set_state(array(
+     'data' => 
+    stdClass::__set_state(array(
+       'ID' => '119',
+       'user_login' => 'johnhession',
+       'user_pass' => 'xxxxxxxx/pass',
+       'user_nicename' => 'johnhession',
+       'user_email' => 'johnhession@britishcouncil.fr',
+       'user_url' => '',
+       'user_registered' => '2015-06-02 08:24:45',
+       'user_activation_key' => '',
+       'user_status' => '0',
+       'display_name' => 'johnhession',
+       'spam' => '0',
+       'deleted' => '0',
+    )),
+     'ID' => 119,
+     'caps' => 
+    array (
+      'subscriber' => true,
+    ),
+     'cap_key' => 'wp_capabilities',
+     'roles' => 
+    array (
+      0 => 'subscriber',
+    ),
+     'allcaps' => 
+    array (
+      'read' => true,
+      'level_0' => true,
+      'publish_bookings' => true,
+      'access_s2member_level0' => true,
+      'subscriber' => true,
+    ),
+     'filter' => NULL,
+  )),
+  '_pmr' => 
+  array (
+    'user_login' => 'johnhession',
+    'user_email' => 'johnhession@britishcouncil.fr',
+    'ws_plugin__s2member_registration' => 'ef88e81353',
+    'ws_plugin__s2member_custom_reg_field_first_name' => 'John',
+    'ws_plugin__s2member_custom_reg_field_last_name' => 'Hession',
+    'redirect_to' => '',
+    'wp-submit' => 'Register',
+    0 => '',
+  ),
+  'custom_reg_display_name' => 'full',
+  'reg_cookies' => false,
+  'current_role' => 'subscriber',
+  'role' => 'subscriber',
+  'level' => '0',
+  'ccaps' => '',
+  'email' => 'johnhession@britishcouncil.fr',
+  'login' => 'johnhession',
+  'ip' => '77.242.202.235',
+  'custom' => '',
+  'subscr_id' => '',
+  'subscr_baid' => '',
+  'subscr_gateway' => '',
+  'cv' => 
+  array (
+    0 => '',
+  ),
+  'eot' => '',
+  'auto_eot_time' => '',
+  'notes' => '',
+  'opt_in' => false,
+  'fname' => 'John',
+  'lname' => 'Hession',
+  'name' => 'John Hession',
+  'pass' => 'xxxxxxxx/pass',
+  'fields' => 
+  array (
+  ),
+)
+
+LOG ENTRY: Tue Jun 2nd, 2015 @ precisely 12:26 pm UTC
+PHP v5.3.29 :: WordPress v3.9.2 :: s2Member v140520
+Memory 63.96 MB :: Real Memory 64.50 MB :: Peak Memory 64.19 MB :: Real Peak Memory 64.50 MB
+www.test-sw2.com/facilities/wp-login.php?action=register
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2272.101 Safari/537.36
+array (
+  'user_id' => 120,
+  'password' => false,
+  'pagenow' => 'wp-login.php',
+  'email_config' => true,
+  'processed' => 'yes',
+  'user' => 
+  WP_User::__set_state(array(
+     'data' => 
+    stdClass::__set_state(array(
+       'ID' => '120',
+       'user_login' => 'alexcheatle',
+       'user_pass' => 'xxxxxxxx/pass',
+       'user_nicename' => 'alexcheatle',
+       'user_email' => 'alex.cheatle@britishcouncil.fr',
+       'user_url' => '',
+       'user_registered' => '2015-06-02 12:26:32',
+       'user_activation_key' => '',
+       'user_status' => '0',
+       'display_name' => 'alexcheatle',
+       'spam' => '0',
+       'deleted' => '0',
+    )),
+     'ID' => 120,
+     'caps' => 
+    array (
+      'subscriber' => true,
+    ),
+     'cap_key' => 'wp_capabilities',
+     'roles' => 
+    array (
+      0 => 'subscriber',
+    ),
+     'allcaps' => 
+    array (
+      'read' => true,
+      'level_0' => true,
+      'publish_bookings' => true,
+      'access_s2member_level0' => true,
+      'subscriber' => true,
+    ),
+     'filter' => NULL,
+  )),
+  '_pmr' => 
+  array (
+    'user_login' => 'alexcheatle',
+    'user_email' => 'alex.cheatle@britishcouncil.fr',
+    'ws_plugin__s2member_registration' => '6ef7c58b79',
+    'ws_plugin__s2member_custom_reg_field_first_name' => 'Alexandra',
+    'ws_plugin__s2member_custom_reg_field_last_name' => 'Cheatle',
+    'redirect_to' => '',
+    'wp-submit' => 'Register',
+    0 => '',
+  ),
+  'custom_reg_display_name' => 'full',
+  'reg_cookies' => false,
+  'current_role' => 'subscriber',
+  'role' => 'subscriber',
+  'level' => '0',
+  'ccaps' => '',
+  'email' => 'alex.cheatle@britishcouncil.fr',
+  'login' => 'alexcheatle',
+  'ip' => '77.242.202.236',
+  'custom' => '',
+  'subscr_id' => '',
+  'subscr_baid' => '',
+  'subscr_gateway' => '',
+  'cv' => 
+  array (
+    0 => '',
+  ),
+  'eot' => '',
+  'auto_eot_time' => '',
+  'notes' => '',
+  'opt_in' => false,
+  'fname' => 'Alexandra',
+  'lname' => 'Cheatle',
+  'name' => 'Alexandra Cheatle',
+  'pass' => 'xxxxxxxx/pass',
+  'fields' => 
+  array (
+  ),
+)
+
+LOG ENTRY: Wed Jun 3rd, 2015 @ precisely 9:36 am UTC
+PHP v5.3.29 :: WordPress v3.9.2 :: s2Member v140520
+Memory 63.96 MB :: Real Memory 64.50 MB :: Peak Memory 64.19 MB :: Real Peak Memory 64.50 MB
+www.test-sw2.com/facilities/wp-login.php?action=register
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2272.101 Safari/537.36
+array (
+  'user_id' => 121,
+  'password' => false,
+  'pagenow' => 'wp-login.php',
+  'email_config' => true,
+  'processed' => 'yes',
+  'user' => 
+  WP_User::__set_state(array(
+     'data' => 
+    stdClass::__set_state(array(
+       'ID' => '121',
+       'user_login' => 'eileenconnolly',
+       'user_pass' => 'xxxxxxxx/pass',
+       'user_nicename' => 'eileenconnolly',
+       'user_email' => 'eileen.connolly@britishcouncil.fr',
+       'user_url' => '',
+       'user_registered' => '2015-06-03 09:36:23',
+       'user_activation_key' => '',
+       'user_status' => '0',
+       'display_name' => 'eileenconnolly',
+       'spam' => '0',
+       'deleted' => '0',
+    )),
+     'ID' => 121,
+     'caps' => 
+    array (
+      'subscriber' => true,
+    ),
+     'cap_key' => 'wp_capabilities',
+     'roles' => 
+    array (
+      0 => 'subscriber',
+    ),
+     'allcaps' => 
+    array (
+      'read' => true,
+      'level_0' => true,
+      'publish_bookings' => true,
+      'access_s2member_level0' => true,
+      'subscriber' => true,
+    ),
+     'filter' => NULL,
+  )),
+  '_pmr' => 
+  array (
+    'user_login' => 'eileenconnolly',
+    'user_email' => 'eileen.connolly@britishcouncil.fr',
+    'ws_plugin__s2member_registration' => '5c8274b2f7',
+    'ws_plugin__s2member_custom_reg_field_first_name' => 'Eileen',
+    'ws_plugin__s2member_custom_reg_field_last_name' => 'Connolly',
+    'redirect_to' => '',
+    'wp-submit' => 'Register',
+    0 => '',
+  ),
+  'custom_reg_display_name' => 'full',
+  'reg_cookies' => false,
+  'current_role' => 'subscriber',
+  'role' => 'subscriber',
+  'level' => '0',
+  'ccaps' => '',
+  'email' => 'eileen.connolly@britishcouncil.fr',
+  'login' => 'eileenconnolly',
+  'ip' => '77.242.202.244',
+  'custom' => '',
+  'subscr_id' => '',
+  'subscr_baid' => '',
+  'subscr_gateway' => '',
+  'cv' => 
+  array (
+    0 => '',
+  ),
+  'eot' => '',
+  'auto_eot_time' => '',
+  'notes' => '',
+  'opt_in' => false,
+  'fname' => 'Eileen',
+  'lname' => 'Connolly',
+  'name' => 'Eileen Connolly',
+  'pass' => 'xxxxxxxx/pass',
+  'fields' => 
+  array (
+  ),
+)
+
+LOG ENTRY: Sat Jun 6th, 2015 @ precisely 4:48 pm UTC
+PHP v5.3.29 :: WordPress v3.9.2 :: s2Member v140520
+Memory 63.96 MB :: Real Memory 64.50 MB :: Peak Memory 64.19 MB :: Real Peak Memory 64.50 MB
+www.test-sw2.com/facilities/wp-login.php?action=register
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2272.101 Safari/537.36
+array (
+  'user_id' => 122,
+  'password' => false,
+  'pagenow' => 'wp-login.php',
+  'email_config' => true,
+  'processed' => 'yes',
+  'user' => 
+  WP_User::__set_state(array(
+     'data' => 
+    stdClass::__set_state(array(
+       'ID' => '122',
+       'user_login' => 'isabellatam',
+       'user_pass' => 'xxxxxxxx/pass',
+       'user_nicename' => 'isabellatam',
+       'user_email' => 'isabella.tam@britishcouncil.fr',
+       'user_url' => '',
+       'user_registered' => '2015-06-06 16:48:47',
+       'user_activation_key' => '',
+       'user_status' => '0',
+       'display_name' => 'isabellatam',
+       'spam' => '0',
+       'deleted' => '0',
+    )),
+     'ID' => 122,
+     'caps' => 
+    array (
+      'subscriber' => true,
+    ),
+     'cap_key' => 'wp_capabilities',
+     'roles' => 
+    array (
+      0 => 'subscriber',
+    ),
+     'allcaps' => 
+    array (
+      'read' => true,
+      'level_0' => true,
+      'publish_bookings' => true,
+      'access_s2member_level0' => true,
+      'subscriber' => true,
+    ),
+     'filter' => NULL,
+  )),
+  '_pmr' => 
+  array (
+    'user_login' => 'isabellatam',
+    'user_email' => 'isabella.tam@britishcouncil.fr',
+    'ws_plugin__s2member_registration' => '360224d895',
+    'ws_plugin__s2member_custom_reg_field_first_name' => 'Isabella',
+    'ws_plugin__s2member_custom_reg_field_last_name' => 'Tam',
+    'redirect_to' => '',
+    'wp-submit' => 'Register',
+    0 => '',
+  ),
+  'custom_reg_display_name' => 'full',
+  'reg_cookies' => false,
+  'current_role' => 'subscriber',
+  'role' => 'subscriber',
+  'level' => '0',
+  'ccaps' => '',
+  'email' => 'isabella.tam@britishcouncil.fr',
+  'login' => 'isabellatam',
+  'ip' => '77.242.202.237',
+  'custom' => '',
+  'subscr_id' => '',
+  'subscr_baid' => '',
+  'subscr_gateway' => '',
+  'cv' => 
+  array (
+    0 => '',
+  ),
+  'eot' => '',
+  'auto_eot_time' => '',
+  'notes' => '',
+  'opt_in' => false,
+  'fname' => 'Isabella',
+  'lname' => 'Tam',
+  'name' => 'Isabella Tam',
+  'pass' => 'xxxxxxxx/pass',
+  'fields' => 
+  array (
+  ),
+)
+
+LOG ENTRY: Tue Jun 30th, 2015 @ precisely 12:08 pm UTC
+PHP v5.3.29 :: WordPress v3.9.2 :: s2Member v140520
+Memory 64.00 MB :: Real Memory 64.50 MB :: Peak Memory 64.20 MB :: Real Peak Memory 64.50 MB
+www.test-sw2.com/facilities/wp-login.php?action=register
+User-Agent: Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; WOW64; Trident/5.0)
+array (
+  'user_id' => 123,
+  'password' => false,
+  'pagenow' => 'wp-login.php',
+  'email_config' => true,
+  'processed' => 'yes',
+  'user' => 
+  WP_User::__set_state(array(
+     'data' => 
+    stdClass::__set_state(array(
+       'ID' => '123',
+       'user_login' => 'tanguyperrichot',
+       'user_pass' => 'xxxxxxxx/pass',
+       'user_nicename' => 'tanguyperrichot',
+       'user_email' => 'tanguy.perrichot@britishcouncil.fr',
+       'user_url' => '',
+       'user_registered' => '2015-06-30 12:08:01',
+       'user_activation_key' => '',
+       'user_status' => '0',
+       'display_name' => 'tanguyperrichot',
+       'spam' => '0',
+       'deleted' => '0',
+    )),
+     'ID' => 123,
+     'caps' => 
+    array (
+      'subscriber' => true,
+    ),
+     'cap_key' => 'wp_capabilities',
+     'roles' => 
+    array (
+      0 => 'subscriber',
+    ),
+     'allcaps' => 
+    array (
+      'read' => true,
+      'level_0' => true,
+      'publish_bookings' => true,
+      'access_s2member_level0' => true,
+      'subscriber' => true,
+    ),
+     'filter' => NULL,
+  )),
+  '_pmr' => 
+  array (
+    'user_login' => 'tanguyperrichot',
+    'user_email' => 'tanguy.perrichot@britishcouncil.fr',
+    'ws_plugin__s2member_registration' => '0daa05ca68',
+    'ws_plugin__s2member_custom_reg_field_first_name' => 'Tanguy',
+    'ws_plugin__s2member_custom_reg_field_last_name' => 'Perrichot',
+    'redirect_to' => '',
+    'wp-submit' => 'Register',
+    0 => '',
+  ),
+  'custom_reg_display_name' => 'full',
+  'reg_cookies' => false,
+  'current_role' => 'subscriber',
+  'role' => 'subscriber',
+  'level' => '0',
+  'ccaps' => '',
+  'email' => 'tanguy.perrichot@britishcouncil.fr',
+  'login' => 'tanguyperrichot',
+  'ip' => '77.242.202.229',
+  'custom' => '',
+  'subscr_id' => '',
+  'subscr_baid' => '',
+  'subscr_gateway' => '',
+  'cv' => 
+  array (
+    0 => '',
+  ),
+  'eot' => '',
+  'auto_eot_time' => '',
+  'notes' => '',
+  'opt_in' => false,
+  'fname' => 'Tanguy',
+  'lname' => 'Perrichot',
+  'name' => 'Tanguy Perrichot',
+  'pass' => 'xxxxxxxx/pass',
+  'fields' => 
+  array (
+  ),
+)
+
+LOG ENTRY: Mon Jul 6th, 2015 @ precisely 8:29 pm UTC
+PHP v5.3.29 :: WordPress v3.9.2 :: s2Member v140520
+Memory 64.00 MB :: Real Memory 65.00 MB :: Peak Memory 64.23 MB :: Real Peak Memory 65.00 MB
+www.test-sw2.com/facilities/wp-login.php?action=register
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/43.0.2357.130 Safari/537.36
+array (
+  'user_id' => 124,
+  'password' => false,
+  'pagenow' => 'wp-login.php',
+  'email_config' => true,
+  'processed' => 'yes',
+  'user' => 
+  WP_User::__set_state(array(
+     'data' => 
+    stdClass::__set_state(array(
+       'ID' => '124',
+       'user_login' => 'rrswaite',
+       'user_pass' => 'xxxxxxxx/pass',
+       'user_nicename' => 'rrswaite',
+       'user_email' => 'rrswaite@gmail.com',
+       'user_url' => '',
+       'user_registered' => '2015-07-06 20:29:34',
+       'user_activation_key' => '',
+       'user_status' => '0',
+       'display_name' => 'rrswaite',
+       'spam' => '0',
+       'deleted' => '0',
+    )),
+     'ID' => 124,
+     'caps' => 
+    array (
+      'subscriber' => true,
+    ),
+     'cap_key' => 'wp_capabilities',
+     'roles' => 
+    array (
+      0 => 'subscriber',
+    ),
+     'allcaps' => 
+    array (
+      'read' => true,
+      'level_0' => true,
+      'publish_bookings' => true,
+      'access_s2member_level0' => true,
+      'subscriber' => true,
+    ),
+     'filter' => NULL,
+  )),
+  '_pmr' => 
+  array (
+    'user_login' => 'rrswaite',
+    'user_email' => 'rrswaite@gmail.com',
+    'ws_plugin__s2member_registration' => '8e079536f9',
+    'ws_plugin__s2member_custom_reg_field_first_name' => 'rayon',
+    'ws_plugin__s2member_custom_reg_field_last_name' => 'waite',
+    'redirect_to' => '',
+    'wp-submit' => 'Register',
+    0 => '',
+  ),
+  'custom_reg_display_name' => 'full',
+  'reg_cookies' => false,
+  'current_role' => 'subscriber',
+  'role' => 'subscriber',
+  'level' => '0',
+  'ccaps' => '',
+  'email' => 'rrswaite@gmail.com',
+  'login' => 'rrswaite',
+  'ip' => '93.12.131.120',
+  'custom' => '',
+  'subscr_id' => '',
+  'subscr_baid' => '',
+  'subscr_gateway' => '',
+  'cv' => 
+  array (
+    0 => '',
+  ),
+  'eot' => '',
+  'auto_eot_time' => '',
+  'notes' => '',
+  'opt_in' => false,
+  'fname' => 'rayon',
+  'lname' => 'waite',
+  'name' => 'rayon waite',
+  'pass' => 'xxxxxxxx/pass',
+  'fields' => 
+  array (
+  ),
+)
+
+LOG ENTRY: Sun Jul 26th, 2015 @ precisely 6:13 am UTC
+PHP v5.3.29 :: WordPress v3.9.2 :: s2Member v140520
+Memory 64.00 MB :: Real Memory 65.00 MB :: Peak Memory 64.23 MB :: Real Peak Memory 65.00 MB
+www.test-sw2.com/facilities/wp-login.php?action=register
+User-Agent: Mozilla/5.0 (Windows NT 5.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/44.0.2403.107 Safari/537.36
+array (
+  'user_id' => 125,
+  'password' => false,
+  'pagenow' => 'wp-login.php',
+  'email_config' => true,
+  'processed' => 'yes',
+  'user' => 
+  WP_User::__set_state(array(
+     'data' => 
+    stdClass::__set_state(array(
+       'ID' => '125',
+       'user_login' => 'corinnetarbet',
+       'user_pass' => 'xxxxxxxx/pass',
+       'user_nicename' => 'corinnetarbet',
+       'user_email' => 'corinnetarbet@hotmail.com',
+       'user_url' => '',
+       'user_registered' => '2015-07-26 06:13:35',
+       'user_activation_key' => '',
+       'user_status' => '0',
+       'display_name' => 'corinnetarbet',
+       'spam' => '0',
+       'deleted' => '0',
+    )),
+     'ID' => 125,
+     'caps' => 
+    array (
+      'subscriber' => true,
+    ),
+     'cap_key' => 'wp_capabilities',
+     'roles' => 
+    array (
+      0 => 'subscriber',
+    ),
+     'allcaps' => 
+    array (
+      'read' => true,
+      'level_0' => true,
+      'publish_bookings' => true,
+      'access_s2member_level0' => true,
+      'subscriber' => true,
+    ),
+     'filter' => NULL,
+  )),
+  '_pmr' => 
+  array (
+    'user_login' => 'corinnetarbet',
+    'user_email' => 'corinnetarbet@hotmail.com',
+    'ws_plugin__s2member_registration' => '710eb48dc0',
+    'ws_plugin__s2member_custom_reg_field_first_name' => 'Corinne',
+    'ws_plugin__s2member_custom_reg_field_last_name' => 'TARBET',
+    'redirect_to' => '',
+    'wp-submit' => 'Register',
+    0 => '',
+  ),
+  'custom_reg_display_name' => 'full',
+  'reg_cookies' => false,
+  'current_role' => 'subscriber',
+  'role' => 'subscriber',
+  'level' => '0',
+  'ccaps' => '',
+  'email' => 'corinnetarbet@hotmail.com',
+  'login' => 'corinnetarbet',
+  'ip' => '88.142.234.196',
+  'custom' => '',
+  'subscr_id' => '',
+  'subscr_baid' => '',
+  'subscr_gateway' => '',
+  'cv' => 
+  array (
+    0 => '',
+  ),
+  'eot' => '',
+  'auto_eot_time' => '',
+  'notes' => '',
+  'opt_in' => false,
+  'fname' => 'Corinne',
+  'lname' => 'TARBET',
+  'name' => 'Corinne TARBET',
+  'pass' => 'xxxxxxxx/pass',
+  'fields' => 
+  array (
+  ),
+)
+
+LOG ENTRY: Wed Aug 26th, 2015 @ precisely 9:08 am UTC
+PHP v5.3.29 :: WordPress v3.9.2 :: s2Member v140520
+Memory 64.00 MB :: Real Memory 65.00 MB :: Peak Memory 64.21 MB :: Real Peak Memory 65.00 MB
+www.test-sw2.com/facilities/wp-login.php?action=register
+User-Agent: Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; WOW64; Trident/5.0)
+array (
+  'user_id' => 126,
+  'password' => false,
+  'pagenow' => 'wp-login.php',
+  'email_config' => true,
+  'processed' => 'yes',
+  'user' => 
+  WP_User::__set_state(array(
+     'data' => 
+    stdClass::__set_state(array(
+       'ID' => '126',
+       'user_login' => 'candicejones',
+       'user_pass' => 'xxxxxxxx/pass',
+       'user_nicename' => 'candicejones',
+       'user_email' => 'candiceelizabethjones@britishcouncil.fr',
+       'user_url' => '',
+       'user_registered' => '2015-08-26 09:08:13',
+       'user_activation_key' => '',
+       'user_status' => '0',
+       'display_name' => 'candicejones',
+       'spam' => '0',
+       'deleted' => '0',
+    )),
+     'ID' => 126,
+     'caps' => 
+    array (
+      'subscriber' => true,
+    ),
+     'cap_key' => 'wp_capabilities',
+     'roles' => 
+    array (
+      0 => 'subscriber',
+    ),
+     'allcaps' => 
+    array (
+      'read' => true,
+      'level_0' => true,
+      'publish_bookings' => true,
+      'access_s2member_level0' => true,
+      'subscriber' => true,
+    ),
+     'filter' => NULL,
+  )),
+  '_pmr' => 
+  array (
+    'user_login' => 'candicejones',
+    'user_email' => 'candiceelizabethjones@britishcouncil.fr',
+    'ws_plugin__s2member_registration' => '05b422bace',
+    'ws_plugin__s2member_custom_reg_field_first_name' => 'Candice',
+    'ws_plugin__s2member_custom_reg_field_last_name' => 'Jones',
+    'redirect_to' => '',
+    'wp-submit' => 'Register',
+    0 => '',
+  ),
+  'custom_reg_display_name' => 'full',
+  'reg_cookies' => false,
+  'current_role' => 'subscriber',
+  'role' => 'subscriber',
+  'level' => '0',
+  'ccaps' => '',
+  'email' => 'candiceelizabethjones@britishcouncil.fr',
+  'login' => 'candicejones',
+  'ip' => '77.242.202.243',
+  'custom' => '',
+  'subscr_id' => '',
+  'subscr_baid' => '',
+  'subscr_gateway' => '',
+  'cv' => 
+  array (
+    0 => '',
+  ),
+  'eot' => '',
+  'auto_eot_time' => '',
+  'notes' => '',
+  'opt_in' => false,
+  'fname' => 'Candice',
+  'lname' => 'Jones',
+  'name' => 'Candice Jones',
+  'pass' => 'xxxxxxxx/pass',
+  'fields' => 
+  array (
+  ),
+)
+
+LOG ENTRY: Thu Aug 27th, 2015 @ precisely 8:58 am UTC
+PHP v5.3.29 :: WordPress v3.9.2 :: s2Member v140520
+Memory 64.07 MB :: Real Memory 64.75 MB :: Peak Memory 64.30 MB :: Real Peak Memory 64.75 MB
+www.test-sw2.com/facilities/wp-login.php?action=register
+User-Agent: Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; WOW64; Trident/5.0)
+array (
+  'user_id' => 127,
+  'password' => false,
+  'pagenow' => 'wp-login.php',
+  'email_config' => true,
+  'processed' => 'yes',
+  'user' => 
+  WP_User::__set_state(array(
+     'data' => 
+    stdClass::__set_state(array(
+       'ID' => '127',
+       'user_login' => 'candicejones11',
+       'user_pass' => 'xxxxxxxx/pass',
+       'user_nicename' => 'candicejones11',
+       'user_email' => 'CandiceElizabeth.Jones@britishcouncil.fr',
+       'user_url' => '',
+       'user_registered' => '2015-08-27 08:58:10',
+       'user_activation_key' => '',
+       'user_status' => '0',
+       'display_name' => 'candicejones11',
+       'spam' => '0',
+       'deleted' => '0',
+    )),
+     'ID' => 127,
+     'caps' => 
+    array (
+      'subscriber' => true,
+    ),
+     'cap_key' => 'wp_capabilities',
+     'roles' => 
+    array (
+      0 => 'subscriber',
+    ),
+     'allcaps' => 
+    array (
+      'read' => true,
+      'level_0' => true,
+      'publish_bookings' => true,
+      'access_s2member_level0' => true,
+      'subscriber' => true,
+    ),
+     'filter' => NULL,
+  )),
+  '_pmr' => 
+  array (
+    'user_login' => 'candicejones11',
+    'user_email' => 'CandiceElizabeth.Jones@britishcouncil.fr',
+    'ws_plugin__s2member_registration' => '13c6ccaef6',
+    'ws_plugin__s2member_custom_reg_field_first_name' => 'Candice',
+    'ws_plugin__s2member_custom_reg_field_last_name' => 'Jones',
+    'redirect_to' => '',
+    'wp-submit' => 'Register',
+    0 => '',
+  ),
+  'custom_reg_display_name' => 'full',
+  'reg_cookies' => false,
+  'current_role' => 'subscriber',
+  'role' => 'subscriber',
+  'level' => '0',
+  'ccaps' => '',
+  'email' => 'CandiceElizabeth.Jones@britishcouncil.fr',
+  'login' => 'candicejones11',
+  'ip' => '77.242.202.244',
+  'custom' => '',
+  'subscr_id' => '',
+  'subscr_baid' => '',
+  'subscr_gateway' => '',
+  'cv' => 
+  array (
+    0 => '',
+  ),
+  'eot' => '',
+  'auto_eot_time' => '',
+  'notes' => '',
+  'opt_in' => false,
+  'fname' => 'Candice',
+  'lname' => 'Jones',
+  'name' => 'Candice Jones',
+  'pass' => 'xxxxxxxx/pass',
+  'fields' => 
+  array (
+  ),
+)
+

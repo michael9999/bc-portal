@@ -1,0 +1,64 @@
+#label-user{
+ 
+float: left;
+margin-top: 1%;
+    
+}
+
+#label-email{
+ 
+float: left;
+margin-top: 1%;
+    
+}
+
+#label-captcha{
+ 
+float: left;
+margin-top: 1%;
+    
+}
+
+
+input#email{
+ 
+ margin-left: 0%;   
+    
+}
+
+input#user_login{
+ 
+ margin-left: 0%;   
+    
+}
+
+
+#user-login{
+    
+    
+margin-bottom: 5%;    
+    
+    
+}
+
+div#email-wrap{
+    
+    margin-top: 1%;
+    margin-bottom: 1%;
+    
+}
+
+div#user-wrap{
+    
+    margin-top: 1%;
+    margin-bottom: 1%;
+    
+}
+
+input#sub{
+    
+    margin-top: 1%;
+    margin-left: 0%
+    
+}
+

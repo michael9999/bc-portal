@@ -1,0 +1,52 @@
+/* 
+WOO CUSTOM STYLESHEET
+---------------------
+
+Instructions:
+
+Add your custom styles in this file instead of style.css so it 
+is easier to update the theme. Simply copy an existing style 
+from style.css to this file, and modify it to your liking. */
+
+#title-proc {
+    background-color: #DCDCDA;
+    border: 1px solid #3FD417;
+    border-radius: 10px 10px 10px 10px;
+    color: #2EB50A;
+    font-size: 15px;
+    font-weight: bold;
+    margin-bottom: 4%;
+    margin-top: 4%;
+    padding-bottom: 0.5%;
+    padding-left: 1%;
+    padding-top: 0.5%;
+    width: 20%;
+} 
+
+
+#title-contract {
+    background-color: #DCDCDA;
+    border: 1px solid #3FD417;
+    border-radius: 10px 10px 10px 10px;
+    color: #2EB50A;
+    font-size: 15px;
+    font-weight: bold;
+    margin-bottom: 4%;
+    margin-top: 4%;
+	margin-left: -1%;
+    padding-bottom: 0.5%;
+    padding-left: 1%;
+    padding-top: 0.5%;
+    width: 20%;
+}
+
+
+#logo img {
+    margin-left: -2.5%;
+}
+
+
+.entry, .entry p {
+    color: black;
+    font: 16px/1.5em Helvetica,'Droid Sans',Arial,sans-serif;
+}

@@ -1,0 +1,12 @@
+{
+    "name": "wp/livedocx",
+    "keywords": [
+        "zf2",
+        "livedocx"
+    ],
+    "require": {
+        "php": ">=5.3.3",
+        "zendframework/zendservice-livedocx": "2.0.*@dev",
+        "zendframework/zend-filter": ">=2.0.0"
+    }
+}

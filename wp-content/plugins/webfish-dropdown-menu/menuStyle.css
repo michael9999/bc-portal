@@ -1,0 +1,187 @@
+/*
+
+    This program is free software: you can redistribute it and/or modify
+    it under the terms of the GNU General Public License as published by
+    the Free Software Foundation, either version 3 of the License, or
+    (at your option) any later version.
+
+    This program is distributed in the hope that it will be useful,
+    but WITHOUT ANY WARRANTY; without even the implied warranty of
+    MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+    GNU General Public License for more details.
+
+    You should have received a copy of the GNU General Public License
+    along with this program.  If not, see <http://www.gnu.org/licenses/>.
+
+ */
+ 
+/************************************************
+* Play with it at you own risk =)				*
+************************************************/
+
+/************************************************
+*	General stuff								*
+************************************************/
+
+#DropDownMenuNav a, #DropDownMenuNav a:link, #DropDownMenuNav a:visited, #DropDownMenuNav a:hover
+{
+
+  margin-right: 0px;
+  margin-left: 0px;
+  background-color:transparent;
+  padding: 5px 11px 0 11px;
+  
+  display: block;
+
+}
+
+#DropDownMenuNav ul
+{
+  min-height: 0;
+  margin: 0;
+  padding: 0;
+  border: 0;
+  list-style-type: none;
+  display: block;
+}
+
+#DropDownMenuNav li
+{
+  margin: 0;
+  padding: 0;
+  border: 0;
+  display: block;
+  float: left;
+  position: relative;
+  z-index: 5;
+  background:none;
+  
+  	display: inline;
+	font-weight: bold;
+	padding: 0;
+	
+}
+
+#DropDownMenuNav ul.sub-menu,
+#DropDownMenuNav ul.children{
+  visibility: hidden;
+  z-index: 10;
+  background:none;
+  
+  
+  /*Here is some magic*/
+  position: absolute;
+  
+  /* makes the frame more pretty*/
+  padding: 1px;
+}
+
+
+
+#DropDownMenuNav ul.DropDownMenu li:hover>ul
+{
+  visibility: visible;
+  top: 100%;
+}
+
+#DropDownMenuNav ul.DropDownMenu li:hover
+{
+  z-index: 10000;
+  white-space: normal;
+  
+}
+
+#DropDownMenuNav ul.DropDownMenu li li:hover>ul
+{
+  top: 0;
+  left: 100%;
+}
+
+#DropDownMenuNav ul.DropDownMenu:after, 
+#DropDownMenuNav ul.sub-menu:after,
+#DropDownMenuNav ul.children:after
+{
+  content: ".";
+  height: 0;
+  display: block;
+  visibility: hidden;
+  overflow: hidden;
+  clear: both;
+}
+
+/************************************************
+*	Menu structure								*
+************************************************/
+#DropDownMenuNav {
+	padding: 0px;
+ 	z-index: 100;
+}
+
+#DropDownMenuNav ul.DropDownMenu
+{
+  padding: 0;
+}
+
+
+#DropDownMenuNav a:hover
+{
+  /*background-position: left -30px;*/
+}
+
+#DropDownMenuNav li:hover a 
+{
+  /*background-position: left -30px;*/ 
+}
+
+
+#DropDownMenuNav a.active 
+{
+  /*background-position: left -60px;*/
+}
+
+/************************************************
+*	Menu separator								*
+************************************************/
+#DropDownMenuNav .separator
+{
+  display: block;
+  width: 1px;
+}
+
+/************************************************
+*	sub-menu item								*
+************************************************/
+#DropDownMenuNav ul.sub-menu li,
+#DropDownMenuNav ul.children li{
+	clear: both;
+	margin:0px;	
+	float:left;
+	text-align: left;
+}
+
+#DropDownMenuNav ul.sub-menu a,
+#DropDownMenuNav ul.children a{
+  display: inline;
+  float: none;
+  letter-spacing: 1px;
+  padding: 0 0 0 0;
+  margin: 0 0 0 15px;
+}
+
+
+
+#DropDownMenuNav ul.sub-menu li.current-menu-item,
+#DropDownMenuNav ul.sub-menu li:hover,
+#DropDownMenuNav ul.children li.current-menu-item,
+#DropDownMenuNav ul.children li.current_page_item,
+#DropDownMenuNav ul.children li:hover{
+	background-image:none;
+}
+/****************************************
+* Corrects bugs in IE 					*
+****************************************/
+
+#DropDownMenuNav *{
+	padding: 0;
+  	margin: 0;
+}

@@ -1,0 +1,1 @@
+[25-Jan-2014 13:07:57 Etc/UTC] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/sw2c/public_html/wp35/wp-content/plugins/facilities-management/views/form.php on line 5

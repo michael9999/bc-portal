@@ -1,0 +1,2 @@
+Dynamic Step Process Panels For Wordpress
+version 3.0 (15/01/2013)

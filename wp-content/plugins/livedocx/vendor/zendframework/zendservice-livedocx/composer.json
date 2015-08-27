@@ -1,0 +1,43 @@
+{
+    "minimum-stability": "dev",
+    "name": "zendframework/zendservice-livedocx",
+    "description": "Zend Framework 2 component for LiveDocx Free, LiveDocx Premium and LiveDocx Fully Licensed. Details at: http://goo.gl/xEMEK and http://goo.gl/5kyP.",
+    "type": "library",
+    "keywords": [
+        "zf2",
+        "livedocx"
+    ],
+    "homepage": "http://packages.zendframework.com/",
+    "license": "BSD-3-Clause",
+    "autoload": {
+        "psr-0": {
+            "ZendService\\LiveDocx\\": "library/"
+        }
+    },
+    "repositories": [
+        {
+            "type": "composer",
+            "url": "http://packages.zendframework.com/"
+        }
+    ],
+    "require": {
+        "php": ">=5.3.3",
+        "zendframework/zend-version": ">=2.0.0",
+        "zendframework/zend-config": ">=2.0.0",
+        "zendframework/zend-servicemanager": ">=2.0.0",
+        "zendframework/zend-log": ">=2.0.0",
+        "zendframework/zend-debug": ">=2.0.0",
+        "zendframework/zend-soap": ">=2.0.0",
+        "zendframework/zend-http": ">=2.0.0",
+        "zendframework/zend-uri": ">=2.0.0"
+    },
+    "require-dev":
+    {
+        "phpunit/phpunit": "3.7.*"
+    },
+    "extra": {
+        "branch-alias": {
+            "dev-master": "2.0-dev"
+        }
+    }
+}
